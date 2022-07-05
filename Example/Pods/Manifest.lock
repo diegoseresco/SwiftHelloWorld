@@ -1,0 +1,16 @@
+PODS:
+  - SwiftHelloWorld (0.1.0)
+
+DEPENDENCIES:
+  - SwiftHelloWorld (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftHelloWorld:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftHelloWorld: b6cab81473da08b1ac4c947e8c8be5f761e7fd5b
+
+PODFILE CHECKSUM: b69a5d169d2ed6aabd897e37a7e067178d51112a
+
+COCOAPODS: 1.11.3

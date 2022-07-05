@@ -1,0 +1,22 @@
+{
+  "name": "SwiftHelloWorld",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftHelloWorld.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/diego/SwiftHelloWorld",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "diego": "92336377+diegosalcedov@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/diego/SwiftHelloWorld.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SwiftHelloWorld/Classes/**/*"
+}

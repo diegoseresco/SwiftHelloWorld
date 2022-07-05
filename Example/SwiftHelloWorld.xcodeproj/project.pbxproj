@@ -40,13 +40,13 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		65E9290F938A1FE1E89D4A57 /* Pods_SwiftHelloWorld_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftHelloWorld_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6AD11B8A08D54E793A118524 /* SwiftHelloWorld.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SwiftHelloWorld.podspec; path = ../SwiftHelloWorld.podspec; sourceTree = "<group>"; };
+		6AD11B8A08D54E793A118524 /* SwiftHelloWorld.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SwiftHelloWorld.podspec; path = ../SwiftHelloWorld.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		75204B9AF6D466B6714689C4 /* Pods-SwiftHelloWorld_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftHelloWorld_Tests.debug.xcconfig"; path = "Target Support Files/Pods-SwiftHelloWorld_Tests/Pods-SwiftHelloWorld_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9F9C167F481718F301151974 /* Pods-SwiftHelloWorld_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftHelloWorld_Example.debug.xcconfig"; path = "Target Support Files/Pods-SwiftHelloWorld_Example/Pods-SwiftHelloWorld_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		A2D24A6E73B5DD81476947C6 /* Pods-SwiftHelloWorld_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftHelloWorld_Example.release.xcconfig"; path = "Target Support Files/Pods-SwiftHelloWorld_Example/Pods-SwiftHelloWorld_Example.release.xcconfig"; sourceTree = "<group>"; };
-		A5A3988A8F1978B5F0C6F309 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		A5A3988A8F1978B5F0C6F309 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		AE398EBFB128F6503529B3F5 /* Pods_SwiftHelloWorld_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftHelloWorld_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D244BF8099D41EBF21828B9C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		D244BF8099D41EBF21828B9C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +77,6 @@
 				75204B9AF6D466B6714689C4 /* Pods-SwiftHelloWorld_Tests.debug.xcconfig */,
 				3AB8F46C6D6530CC381D16EC /* Pods-SwiftHelloWorld_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

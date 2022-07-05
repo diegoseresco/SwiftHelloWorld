@@ -1,0 +1,6 @@
+framework module SwiftHelloWorld {
+  umbrella header "SwiftHelloWorld-umbrella.h"
+
+  export *
+  module * { export * }
+}
