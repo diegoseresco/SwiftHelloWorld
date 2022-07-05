@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SwiftHelloWorld'
   s.version          = '0.1.0'
-  s.summary          = 'This library will show you a cool helo world!'
+  s.summary          = 'This library will show you a cool helo world!!!'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
