@@ -22,7 +22,7 @@ pod 'SwiftHelloWorld'
 
 ## Author
 
-diego, 92336377+diegosalcedov@users.noreply.github.com
+Diego Salcedo
 
 ## License
 
