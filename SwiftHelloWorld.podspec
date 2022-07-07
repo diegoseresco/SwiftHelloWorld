@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftHelloWorld'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'This library will show you a cool helo world!!!'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 'This library will show you a cool helo world!!!. Just use it and have fun!'
                        DESC
 
-  s.homepage         = 'https://github.com/diego/SwiftHelloWorld'
+  s.homepage         = 'https://github.com/diegoseresco/SwiftHelloWorld'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'diego' => '92336377+diegosalcedov@users.noreply.github.com' }
@@ -30,13 +30,13 @@ Pod::Spec.new do |s|
 
  # s.source_files = 'SwiftHelloWorld/Classes/**/*'
   
-  s.ios.deployment_target = '13.0'
+  s.ios.deployment_target = '10.0'
   
   s.source_files = 'Classes/**/*.swift'
   
   s.swift_version = '5.0'
   
-  s.platform = {
+  s.platforms = {
       "ios": "13.0"
   }
   

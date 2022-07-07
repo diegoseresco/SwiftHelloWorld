@@ -10,7 +10,7 @@ import Foundation
 extension String {
     
     func showHelloWorld() -> String {
-        return "Hello World from custom library!"
+        return "Hello World from custom library v2.0!"
     }
     
 }
